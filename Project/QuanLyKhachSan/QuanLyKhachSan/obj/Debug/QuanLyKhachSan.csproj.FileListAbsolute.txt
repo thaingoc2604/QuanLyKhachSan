@@ -1,0 +1,169 @@
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.fLogin.resources
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.fTableManager.resources
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.fAccountProfile.resources
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.fAdmin.resources
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EnvDTE.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\stdole.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.MSXML.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\RdlCompile.cache
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\RdlCompile.compiled
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.RPBill.resources
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TimerAndProgrespass.resources
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.BackupAndRestore.resources
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.fScreen.resources
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\FontAwesome.Sharp.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.GUI.ReportTheoMon.resources
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SelectmultipleForm.resources
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.BackupAndRestore.resources
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.fAccountProfile.resources
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.fAdmin.resources
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.fLogin.resources
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.fScreen.resources
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.fTableManager.resources
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.GUI.ReportTheoMon.resources
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.PrintXML.resources
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.RPBill.resources
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SelectmultipleForm.resources
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TimerAndProgrespass.resources
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\RdlCompile.cache
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\RdlCompile.compiled
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\FontAwesome.Sharp.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EnvDTE.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\stdole.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.MSXML.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Do An Quan Ly Khach San C# - three player\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.EndcripAndDescript.resources
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.search.resources
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Google.resources
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SearchNC.resources
+D:\QuanLyKhachSan1\Project\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Tool.resources
